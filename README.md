@@ -7,5 +7,4 @@
 - [GitHub](https://github.com/Janette-Ramirez-Ulloa).
 
 ## Mis notas de lectura:
-[Para más información](https://github.com/Janette-Ramirez-Ulloa/mindset).
-
+[Para más información](https://janette-ramirez-ulloa.github.io/mindset/).
