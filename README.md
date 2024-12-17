@@ -1,5 +1,5 @@
 # Janette Ramirez Ulloa
-![Texto alternativo](ruta/imagen.png)
+![Texto alternativo](imagen.png)
 
 ## Información de contacto:
 - [Linkedin](https://www.linkedin.com/in/janette-ramirez-ulloa-transformacion-digital/).
