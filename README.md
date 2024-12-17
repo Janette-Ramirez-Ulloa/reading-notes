@@ -1,4 +1,4 @@
-# Bienenidos mis alumnos
+# Growth mindet
 ## Bienvenidos a su primer repositorio
 
 Lita de elemento para hacer un pollo a la braa
