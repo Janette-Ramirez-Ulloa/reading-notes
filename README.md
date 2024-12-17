@@ -8,3 +8,4 @@
 
 ## Mis notas de lectura:
 [Para más información](https://github.com/Janette-Ramirez-Ulloa/mindset).
+
