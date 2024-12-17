@@ -1,4 +1,5 @@
 # Janette Ramirez Ulloa
+![Mi imagen](imagen.jpg)
 
 
 ## Información de contacto:
