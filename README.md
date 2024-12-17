@@ -5,4 +5,4 @@
 - GitHub: [Markdown Live Preview]([https://markdownlivepreview.com/](https://github.com/Janette-Ramirez-Ulloa)).
 
 ## Mis notas de lectura:
-[URL] (https://github.com/Janette-Ramirez-Ulloa/mindset)
+[Visita para más información] (https://github.com/Janette-Ramirez-Ulloa/mindset)
