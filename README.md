@@ -3,5 +3,6 @@
 ## Información de contacto:
 - Linkedin: [Markdown Live Preview]([https://markdownlivepreview.com/](https://www.linkedin.com/in/janette-ramirez-ulloa-transformacion-digital/)).
 - GitHub: [Markdown Live Preview]([https://markdownlivepreview.com/](https://github.com/Janette-Ramirez-Ulloa)).
+
 ## Mis notas de lectura:
 [URL] (https://github.com/Janette-Ramirez-Ulloa/mindset)
