@@ -1,5 +1,5 @@
 # Janette Ramirez Ulloa
-<img src="imagen.jpg" alt="Mi imagen" width="300" height="300">
+<img src="imagen.jpg" alt="Mi imagen" width="280" height="280">
 
 
 ## Información de contacto:
