@@ -1,8 +1,8 @@
 # Hola, Soy Janette Ramirez, 
 ## Les muestro mi página usando wireframe + HTML + CSS 
-## Wireframe
+## 1. Wireframe
 ![guia](guia.png)
 
-## Prototipo en alta fidelidad luego de codificar el wireframe
+## 2. Prototipo en alta fidelidad luego de codificar el wireframe
 ![guia turistica](guiaturistica.jpg)
 ![guia turistica 2](guiaturistica2.jpg)
