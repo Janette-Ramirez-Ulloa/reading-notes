@@ -4,5 +4,5 @@
 ![guia](guia.png)
 
 ## Prototipo en alta fidelidad luego de codificar el wireframe
-![guia turistica](guiaturstica.png)
-![guia turistica 2](guiaturstica2.png)
+![guia turistica](guiaturistica.png)
+![guia turistica 2](guiaturistica2.png)
