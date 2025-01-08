@@ -7,5 +7,5 @@
 - [GitHub](https://github.com/Janette-Ramirez-Ulloa).
 
 ## Mis notas de lectura:
-[Para más información](https://janette-ramirez-ulloa.github.io/mindset/).
-[Guía Turística - Lab08](https://janette-ramirez-ulloa.github.io/mindset/).
+- [Para más información](https://janette-ramirez-ulloa.github.io/mindset/).
+- [Guía Turística - Lab08](https://janette-ramirez-ulloa.github.io/mindset/).
