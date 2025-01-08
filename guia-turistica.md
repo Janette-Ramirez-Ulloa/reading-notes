@@ -1,5 +1,5 @@
-# Hola, Soy Janette Ramirez, 
-## Les muestro mi página usando wireframe + HTML + CSS 
+# Hola, Soy Janette Ramirez
+## Les muestro mi página turística usando wireframe + HTML + CSS 
 ## 1. Wireframe
 ![guia](guia.png)
 
